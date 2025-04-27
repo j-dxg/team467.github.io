@@ -9,15 +9,15 @@ In addition to being a fundraiser, Team 467 also reserves a generous set of pies
 
 ---
 
-{{< columns >}}
+<!-- {{< columns >}} -->
 
 ![Apple Peeling](Apple-Peeling.jpg)
 
-{{< column >}}
+<!-- {{< columns >}} -->
 
 ![Apple Pie](Apple-Pie.jpg)
 
-{{< endcolumns >}}
+<!--{{< /columns >}}-->
 
 ---
 
@@ -33,15 +33,15 @@ Each ticket you buy allows you to pick up one fresh apple pie at **Oak Middle Sc
 
 ---
 
-{{< columns >}}
+<!-- {{< columns >}} -->
 
 ![Pie Assembly](Pie-Assembly.jpg)
 
-{{< column >}}
+<!-- {{< columns >}} -->
 
-![Pies coming out of Oven](Oven.jpg)
+<!--{{[Pies coming out of Oven]}}-->(Oven.jpg)
 
-{{< endcolumns >}}
+<!--{{< /columns >}}-->
 
 ---
 
